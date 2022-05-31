@@ -1,0 +1,51 @@
+body{
+    background-color: darkcyan !important;
+}
+.out-body{
+    padding: 5% 35% 0% 35%;
+}
+.card-set{
+    background-color: #fff;
+    border-radius: 20px;
+    height: 100%;
+}
+.sec1{
+    text-align: center;
+    padding: 8%;
+    padding-bottom: 0%;
+}
+.logo-set{
+    margin-top: 22px;
+    width: 80px;
+    height: 80px;
+}
+.form-head{
+    padding-top: 20px;
+}
+.sec2 {
+    text-align: center;
+    padding-top: 3%;
+    padding: 0% 10% 16% 10%;
+}
+.form-set{
+    text-align: left !important;
+    padding-top: 7%;
+}
+.label{
+    margin-bottom: 10px;
+}
+.button{
+    margin-top: 10%;
+}
+.link-set{
+    padding-top: 5%;
+    text-align: right;
+}
+.link{
+    text-decoration: none;
+    color: #1768ac!important;
+    font-weight: bold;
+}
+.sub{
+    width: 100%;
+}
